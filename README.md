@@ -14,6 +14,7 @@ This data is only currently based on the top 100 subreddits and will be expanded
 |   business_ideas | Yes     | no    |
 |  trueunpopularopinion  | Yes     | no    |
 |   explainlikeimfive | Yes     | ✅    |
+|   childfree | Yes     | ✅    |
 | productivity   | Yes     | no    |
 |  askreddit  | Yes     | no    |
 |  gaming  | Yes     | no    |
